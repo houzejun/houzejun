@@ -3,4 +3,6 @@ public class test {
         Car bmw = CarFactory.getCar("bmw");
         System.out.println("bmw = " + bmw.getName());
     }
+
+
 }
